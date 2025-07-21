@@ -1,0 +1,7 @@
+name = "cors-bypass"
+main = "src/index.ts"
+compatibility_date = "2022-11-24"
+
+kv_namespaces = [
+    { binding = "ANALYTICS", id = "e956af3371994be99d33dcf0a5c06c45", preview_id = "4daadfc8c22742acab5fb924892f76a9" },
+]
